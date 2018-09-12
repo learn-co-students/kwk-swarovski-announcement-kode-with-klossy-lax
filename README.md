@@ -29,7 +29,7 @@ When you're done with your work, it's important to push your work to GitHub. Rem
 
 ### Top Tip
 
-Images can be tricky. Take a look back at the the lesson from last week `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory. (Hint: use the  <img> tag)
+Images can be tricky. Take a look back at the lesson from last week `Lesson: HTML Tags` for a refresher on how to link images that are stored in your project or lab directory. (Hint: use the  <img> tag)
 
 ### Starting Up
 
